@@ -19,19 +19,14 @@
 ## 🛠️ Tech Stack  
 
 ### 💻 Programming  
-![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B)  
-![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)  
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B) ![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)  
 
 ### ⚡ Electronics & Core  
-![Arduino](https://img.shields.io/badge/Arduino-green?style=for-the-badge&logo=arduino)  
-![Embedded Systems](https://img.shields.io/badge/Embedded-Systems-blue?style=for-the-badge)  
-![IoT](https://img.shields.io/badge/IoT-orange?style=for-the-badge)  
+![Arduino](https://img.shields.io/badge/Arduino-green?style=for-the-badge&logo=arduino)  ![Embedded Systems](https://img.shields.io/badge/Embedded-Systems-blue?style=for-the-badge)  ![IoT](https://img.shields.io/badge/IoT-orange?style=for-the-badge)  
 
 
 ### 🛠️ Tools  
-![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)  
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)  
-![VS Code](https://img.shields.io/badge/VS_Code-blue?style=for-the-badge&logo=visual-studio-code)  
+![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)  ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)  ![VS Code](https://img.shields.io/badge/VS_Code-blue?style=for-the-badge&logo=visual-studio-code) 
 
 ---
 
@@ -59,3 +54,4 @@
 
 ## ⚡ Fun Fact  
 💡 *I love bridging the gap between hardware 🔌 and software 💻 to build real-world solutions* 🚀
+
